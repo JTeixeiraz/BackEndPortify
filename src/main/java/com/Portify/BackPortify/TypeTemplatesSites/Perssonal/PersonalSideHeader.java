@@ -268,7 +268,7 @@ public class PersonalSideHeader {
                   }
                 
                   a:hover {
-                    color: ${color};
+                    color: \{cor};
                     text-decoration: none;
                   }
                 
